@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\LUNATAREA\LUNATAREA\bin\Debug\LUNATAREA.dll
+C:\Users\HP\source\repos\LUNATAREA\LUNATAREA\bin\Debug\LUNATAREA.pdb
+C:\Users\HP\source\repos\LUNATAREA\LUNATAREA\obj\Debug\LUNATAREA.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LUNATAREA\LUNATAREA\obj\Debug\LUNATAREA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LUNATAREA\LUNATAREA\obj\Debug\LUNATAREA.dll
+C:\Users\HP\source\repos\LUNATAREA\LUNATAREA\obj\Debug\LUNATAREA.pdb
